@@ -19,5 +19,5 @@ leo execute play
 ```
 # Aleo_amba
 
-DISCORD
+DISCORD:
 wdoria
